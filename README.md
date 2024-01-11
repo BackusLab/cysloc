@@ -1,6 +1,7 @@
 # cysloc
 Integrating chemoproteomics, subcellular localization annotations and experimental oxidation measurements to define the subcellular cysteinome and redoxome.
 Available at: https://www.sciencedirect.com/science/article/pii/S2451945623001861
+[![DOI](https://zenodo.org/badge/695352249.svg)](https://zenodo.org/doi/10.5281/zenodo.10482957)
 
 The CysLoc Database and mass spectrometry processing were created and developed by Lisa Boatner.
 
